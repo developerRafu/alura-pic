@@ -1,5 +1,5 @@
 # alura-pic
-Projeto desenvolvido juntoa ao curso de angular da alura
+Projeto desenvolvido junto ao curso de angular da alura
 # Requisitos 
 - Node 8
 - Angular cli 6
