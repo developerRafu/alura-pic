@@ -3,7 +3,7 @@ Projeto desenvolvido juntoa ao curso de angular da alura
 # Requisitos 
 - Node 8
 - Angular cli 6
-#Iniciando a aplicação
+# Iniciando a aplicação
 - Na pasta api rode o comando:
 ```bash
 nvm use 8.17.0 && npm start
